@@ -1,7 +1,7 @@
-<h1 align="center">Hello, My name is Carlos Pereira</h1>
+<h1 align="center">Hello, My name is Carlos 🙂</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [a flutter app for my graduation thesis](Link is classified for now)
+- 🔭 I’m currently working on a flutter app for my graduation thesis, which I'll be sharing later
 
 - 👯 I’m looking to collaborate on **game development projects**
 
