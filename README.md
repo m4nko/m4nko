@@ -67,8 +67,12 @@ Aside from the development, I'm also starting to write game reviews [here](https
 **Away From Home**
 
 Game developed following a youtube tutorial from Gabriel Dechichi, in which I learned to use unity!
-- You can play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
-- [Here](https://github.com/m4nko/AwayFromHome) is the repository for this game
+play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
+<p>
+  <a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=AwayFromHome"/>
+  </a>
+</p>
 
 ---
 **Isn't that Flappy Bird**
@@ -79,17 +83,31 @@ One of the first games I developed using Unity!
 **Project Trail Hiker**
 
 One of the games I developed during a game jam!
-- [Here](https://github.com/m4nko/ProjectTrailHiker) is the repository for the game
+<p>
+  <a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=ProjectTrailHiker"/>
+  </a>
+</p>
 ---
+
 **Pong Remastered**
 
 I developed the old pong game using Unity to practice a little bit!
-- [Here](https://github.com/m4nko/PongGame) is the repository for the game
+<p>
+  <a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=PongGame"/>
+  </a>
+</p>
+
 ---
 **Mobile Study Game**
 
 A mobile game I developed for studying purposes following Gabriel Dechichi's youtube tutorial!
-- [Here](https://github.com/m4nko/Mobile2DGame) is the repository for the game
+<p>
+  <a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=Mobile2DGame"/>
+  </a>
+</p>
 
 
 ## Connect With Me
