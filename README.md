@@ -22,6 +22,9 @@
   <a href = "https://flutter.dev" target="blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="blank"/>
   </a>
+  <a href = "https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"/>
+  </a>
   <a href = "https://www.mysql.com/" target="blank">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="blank"/>
   </a>
@@ -30,9 +33,6 @@
   </a>
   <a href = "https://www.rabbitmq.com" target="blank">
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" target="blank"/>
-  </a>
-  <a href = "https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"/>
   </a>
   <a href = "https://azure.microsoft.com/en-in/" target="blank">
     <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" target="blank"/>
