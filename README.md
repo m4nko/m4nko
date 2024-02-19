@@ -64,10 +64,12 @@ If you are interested in more details about me expertise, you can see my resume 
 Aside from the development, I'm also starting to write game reviews [here](https://github.com/m4nko/game-reviews) 😁
 
 ---
+
 **Away From Home**
 
 Game developed following a youtube tutorial from Gabriel Dechichi, in which I learned to use unity!
 play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
+
 <p>
   <a>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=AwayFromHome&theme=kacho_ga"/>
@@ -75,11 +77,13 @@ play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
 </p>
 
 ---
+
 **Isn't that Flappy Bird**
 
-One of the first games I developed using Unity!
-- You can play this game at [Unity Play](https://play.unity.com/mg/other/isn-t-that-flappy-bird)
+One of the first games I developed using Unity! You can play this game at [Unity Play](https://play.unity.com/mg/other/isn-t-that-flappy-bird)
+  
 ---
+
 **Project Trail Hiker**
 
 One of the games I developed during a game jam!
@@ -88,11 +92,13 @@ One of the games I developed during a game jam!
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=ProjectTrailHiker&theme=kacho_ga"/>
   </a>
 </p>
+
 ---
 
 **Pong Remastered**
 
 I developed the old pong game using Unity to practice a little bit!
+
 <p>
   <a>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=PongGame&theme=kacho_ga"/>
@@ -100,9 +106,11 @@ I developed the old pong game using Unity to practice a little bit!
 </p>
 
 ---
+
 **Mobile Study Game**
 
 A mobile game I developed for studying purposes following Gabriel Dechichi's youtube tutorial!
+
 <p>
   <a>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=Mobile2DGame&theme=kacho_ga"/>
