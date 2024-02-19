@@ -1,8 +1,8 @@
 <h1 align="left">Hello and welcome to my profile 😁</h1>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=m4nko&show_icons=true&include_all_commits=true&count_private=true&theme=kacho_ga" alt="m4nko" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4nko&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="m4nko" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cadupereira21&show_icons=true&include_all_commits=true&count_private=true&theme=kacho_ga" alt="m4nko" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cadupereira21&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="m4nko" height="180em"/>
 </div>
 
 ## Tech Stack
