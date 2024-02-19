@@ -49,7 +49,7 @@
 
 My name is Carlos and I'm a backend developer from Brazil, currently working for CI&T in a B2B Global Ecommerce 😃
 I have 2 years of experience, one year working with IT projects and support and another year working as a backend developer, as well as lots of personal projects developed during my graduation!
-Aside from that, I'm also graduating from Unicamp and studying to become a game developer 🎮
+Aside from that, I'm also studying to become a game developer 🎮
 
 ## Interests
 
