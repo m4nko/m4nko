@@ -1,24 +1,103 @@
-<h1 align="center">Hello, My name is Carlos 🙂</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h1 align="left">Hello and welcome to my profile 😁</h1>
 
-- 🔭 I’m currently working on a flutter app for my graduation thesis, which I'll be sharing later
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=m4nko&show_icons=true&include_all_commits=true&count_private=true&theme=kacho_ga" alt="m4nko" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4nko&show_icons=true&locale=en&layout=compact&theme=kacho_ga" alt="m4nko" height="180em"/>
+</div>
 
-- 👯 I’m looking to collaborate on **game development projects**
+## Tech Stack
+<div>
+  <a href = "https://unity.com/" target="blank">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"/>
+  </a>
+  <a href = "https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"/>
+  </a>
+  <a href = "https://spring.io/" target="blank">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://flutter.dev" target="blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://www.mysql.com/" target="blank">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://www.mongodb.com/" target="blank">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://www.rabbitmq.com" target="blank">
+    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"/>
+  </a>
+  <a href = "https://azure.microsoft.com/en-in/" target="blank">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://git-scm.com/" target="blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank"/>
+  </a>
+  <a href = "https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"/>
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available here at GitHub! [https://github.com/m4nko?tab=repositories](https://github.com/m4nko?tab=repositories)
+## About Me
 
-- 📝 Sometimes I write game reviews on my GitHub repository [https://github.com/m4nko/game-reviews](https://github.com/m4nko/game-reviews)
+My name is Carlos and I'm a backend developer from Brazil, currently working for CI&T in a B2B Global Ecommerce 😃
+I have 2 years of internship, one year working with IT projects and support and another year working as a backend developer!
+Aside from that, I'm also graduating from Unicamp and studying to become a game developer 🎮
 
-- 📫 How to reach me **carloseduardo2101@gmail.com**
+## Interests
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=drive_link](https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=drive_link)
+My main interests are game development and software architecture! I'm looking to participate in game jams and personal game projects to improve my expertise in this field!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlospereira21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlospereira21" height="30" width="40" /></a>
-</p>
+## Portfolio
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I've already developed some games using the Unity engine for personal projects and game jams, below there is some of them!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4nko&show_icons=true&locale=en&layout=compact" alt="m4nko" /></p>
+If you are interested in more details about me expertise, you can see my resume [here](https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=sharing) 😄
+
+Aside from the development, I'm also starting to write game reviews [here](https://github.com/m4nko/game-reviews) 😁
+
+---
+**Away From Home**
+
+Game developed following a youtube tutorial from Gabriel Dechichi, in which I learned to use unity!
+- You can play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
+- [Here](https://github.com/m4nko/AwayFromHome) is the repository for this game
+
+---
+**Isn't that Flappy Bird**
+
+One of the first games I developed using Unity!
+- You can play this game at [Unity Play](https://play.unity.com/mg/other/isn-t-that-flappy-bird)
+---
+**Project Trail Hiker**
+
+One of the games I developed during a game jam!
+- [Here](https://github.com/m4nko/ProjectTrailHiker) is the repository for the game
+---
+**Pong Remastered**
+
+I developed the old pong game using Unity to practice a little bit!
+- [Here](https://github.com/m4nko/PongGame) is the repository for the game
+---
+**Mobile Study Game**
+
+A mobile game I developed for studying purposes following Gabriel Dechichi's youtube tutorial!
+- [Here](https://github.com/m4nko/Mobile2DGame) is the repository for the game
+
+
+## Connect With Me
+<div>
+  <a href="mailto:carloseduardo2101@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://linkedin.com/in/carlospereira21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
