@@ -70,7 +70,7 @@ Game developed following a youtube tutorial from Gabriel Dechichi, in which I le
 play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
 <p>
   <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=AwayFromHome"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=AwayFromHome&theme=kacho_ga"/>
   </a>
 </p>
 
@@ -85,7 +85,7 @@ One of the first games I developed using Unity!
 One of the games I developed during a game jam!
 <p>
   <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=ProjectTrailHiker"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=ProjectTrailHiker&theme=kacho_ga"/>
   </a>
 </p>
 ---
@@ -95,7 +95,7 @@ One of the games I developed during a game jam!
 I developed the old pong game using Unity to practice a little bit!
 <p>
   <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=PongGame"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=PongGame&theme=kacho_ga"/>
   </a>
 </p>
 
@@ -105,7 +105,7 @@ I developed the old pong game using Unity to practice a little bit!
 A mobile game I developed for studying purposes following Gabriel Dechichi's youtube tutorial!
 <p>
   <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=Mobile2DGame"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=Mobile2DGame&theme=kacho_ga"/>
   </a>
 </p>
 
