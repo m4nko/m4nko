@@ -61,7 +61,7 @@ I've already developed some games using the Unity engine for personal projects a
 
 If you are interested in more details about me expertise, you can see my resume [here](https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=sharing) 😄
 
-Aside from the development, I'm also starting to write game reviews [here](https://github.com/m4nko/game-reviews) 😁
+Aside from the development, I'm also starting to write game reviews [here](https://medium.com/@carloseduardo2101) 😁
 
 ---
 
@@ -125,5 +125,8 @@ A mobile game I developed for studying purposes following Gabriel Dechichi's you
   </a>
   <a href="https://linkedin.com/in/carlospereira21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://linkedin.com/in/carlospereira21" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
 </div>
