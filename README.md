@@ -57,11 +57,22 @@ My main interests are game development and software architecture! I'm looking to
 
 ## Portfolio
 
-I've already developed some games using the Unity engine for personal projects and game jams, below there is some of them!
+I've already developed some games using the Unity engine for personal projects and game jams, below there are some of them!
 
-If you are interested in more details about me expertise, you can see my resume [here](https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=sharing) 😄
+If you are interested in more details about my expertise, you can see my resume [here](https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=sharing) 😄
 
-Aside from the development, I'm also starting to write game reviews [here](https://medium.com/@carloseduardo2101) 😁
+---
+
+**Don't Fall Down**
+
+Game Developed following Unity's Junior Programmer Pathway! I implemented some features besides what is taught in the course and studied some code optimization using Object Poolers here!
+Play the game at [Unity Play](https://play.unity.com/en/games/fe4fdde1-c4a0-4cc4-b225-9c63d30b1c27/dont-fall-down)
+
+<p>
+  <a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=dont-fall-down-scripts&theme=kacho_ga"/>
+  </a>
+</p>
 
 ---
 
