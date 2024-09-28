@@ -73,6 +73,18 @@ Play the game at [Unity Play](https://play.unity.com/en/games/fe4fdde1-c4a0-4cc4
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=dont-fall-down-scripts&theme=kacho_ga"/>
   </a>
 </p>
+---
+
+**Data Persistence Challenge**
+
+Another study case from Junior Programmer Pathway! I implemented data persistence between scenes using a singleton object and data persistence between sessions using a JSON save file!
+Play the game at [Unity Play](https://play.unity.com/pt/games/88d71626-d25e-4731-a66a-f81ec5bf8a6d/data-persistence-challenge)
+
+<p>
+  <a>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=data-persistence-challenge&theme=kacho_ga"/>
+  </a>
+</p>
 
 ---
 
